@@ -13,8 +13,8 @@ sections:
           textAlign: justify
     subtitle: CALENTAMIENTO DE AGUA
     text: >+
-      ##### Ferroso es una empresa dedicada a dar soluciones a personas que
-      buscan una 
+      ###### Ferroso es una empresa dedicada a dar soluciones a personas que
+      buscan una
 
     actions:
       - label: Get started
