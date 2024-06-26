@@ -13,8 +13,16 @@ sections:
           textAlign: justify
     subtitle: CALENTAMIENTO DE AGUA
     text: >+
-      ###### Ferroso es una empresa dedicada a dar soluciones a personas que
-      buscan una
+      ###### 
+
+      \<sup>En Ferroso nos especializamos en ofrecer soluciones completas para
+      tus necesidades de calentamiento de agua. Desde la venta de equipos de
+      alta calidad hasta su instalación y mantenimiento, estamos aquí para
+      asegurar que tu hogar o negocio siempre cuente con agua caliente confiable
+      y eficiente.
+
+      \</sup>
+
 
     actions:
       - label: Get started
