@@ -7,6 +7,9 @@ sections:
       text: CALENTADORES DE AGUA
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: Mantenimiento y soluciones
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
