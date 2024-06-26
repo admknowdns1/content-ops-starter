@@ -12,10 +12,14 @@ sections:
           fontWeight: 400
           textAlign: justify
     subtitle: CALENTAMIENTO DE AGUA
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      ```
+
+      Ferroso es una empresa dedicada a dar soluciones a personas que buscan
+      una 
+
+      ```
+
     actions:
       - label: Get started
         altText: ''
