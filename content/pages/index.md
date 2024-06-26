@@ -41,7 +41,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: SOLUCIONES EN EQUIPOS
+      label: SOLUCIONES EN EQUIPOS DE
       color: text-primary
       type: Badge
     elementId: ''
