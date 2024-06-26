@@ -20,7 +20,7 @@ sections:
       y eficiente.*
 
     actions:
-      - label: Get started
+      - label: HABLA
         altText: ''
         url: /
         showIcon: false
