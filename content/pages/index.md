@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: equipos de calentamiento de agua
+      label: SOLUCIONES EN EQUIPOS
       color: text-primary
       type: Badge
     elementId: ''
