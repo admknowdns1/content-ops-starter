@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: CALENTADORES DE GUA
+      text: CALENTADORES DE AGUA
       color: text-dark
       type: TitleBlock
     subtitle: Mantenimiento y soluciones
