@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: CALENTADORES DE AGUA
+      text: ''
       color: text-dark
       type: TitleBlock
       styles:
