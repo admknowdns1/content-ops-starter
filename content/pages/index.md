@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: expertos calentando agua
+      label: equipos de calentamiento de agua
       color: text-primary
       type: Badge
     elementId: ''
