@@ -13,16 +13,11 @@ sections:
           textAlign: justify
     subtitle: CALENTAMIENTO DE AGUA
     text: >+
-      ###### 
-
-      \<sup>En Ferroso nos especializamos en ofrecer soluciones completas para
+      ###### *En Ferroso nos especializamos en ofrecer soluciones completas para
       tus necesidades de calentamiento de agua. Desde la venta de equipos de
       alta calidad hasta su instalación y mantenimiento, estamos aquí para
       asegurar que tu hogar o negocio siempre cuente con agua caliente confiable
-      y eficiente.
-
-      \</sup>
-
+      y eficiente.*
 
     actions:
       - label: Get started
