@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Expertos en reparación, instalación y mantenimieto'
+      text: CALENTADORES DE GUA
       color: text-dark
       type: TitleBlock
     subtitle: Mantenimiento y soluciones
