@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
-          textAlign: justify
+          textAlign: left
     subtitle: CALENTAMIENTO DE AGUA
     text: >+
       ###### Brindamos servicios integrales las 24 horas del día a clientes
