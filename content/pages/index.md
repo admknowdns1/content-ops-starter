@@ -19,7 +19,7 @@ sections:
     actions:
       - label: Sobre nosotros
         altText: ''
-        url: /
+        url: /carrers
         showIcon: false
         icon: arrowRight
         iconPosition: right
