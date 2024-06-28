@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: fero
+      text: Brindamos servicios de plomería eficiente
       color: text-dark
       type: TitleBlock
       styles:
