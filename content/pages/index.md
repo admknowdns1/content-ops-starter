@@ -17,7 +17,7 @@ sections:
       empresariales, comerciales, residenciales multifamiliares e industriales.
 
     actions:
-      - label: ''
+      - label: Sobre nosotros
         altText: ''
         url: /
         showIcon: false
