@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Brindamos servicios de plomería eficiente
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
       styles:
         self:
