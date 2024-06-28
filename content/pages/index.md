@@ -57,6 +57,7 @@ sections:
           - pr-16
       subtitle:
         fontStyle: italic
+        fontWeight: 700
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
