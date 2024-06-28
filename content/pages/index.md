@@ -19,7 +19,7 @@ sections:
     actions:
       - label: Sobre nosotros
         altText: ''
-        url: 'https://create.netlify.com/studio/667c90edbe357000c31a8534#/careers/'
+        url: /careers
         showIcon: false
         icon: arrowRight
         iconPosition: right
