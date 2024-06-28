@@ -11,7 +11,7 @@ sections:
         self:
           fontWeight: 400
           textAlign: left
-    subtitle: CALENTAMIENTO DE AGUA
+    subtitle: Expertos en calentadores de agua
     text: >+
       ###### Brindamos servicios integrales las 24 horas del día a clientes
       empresariales, comerciales, residenciales multifamiliares e industriales.
