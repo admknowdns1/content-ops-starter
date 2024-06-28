@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: fero
       color: text-dark
       type: TitleBlock
       styles:
