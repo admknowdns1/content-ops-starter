@@ -17,9 +17,9 @@ sections:
       empresariales, comerciales, residenciales multifamiliares e industriales.
 
     actions:
-      - label: HABLA
+      - label: Sobre nosotros
         altText: ''
-        url: /
+        url: /carrers
         showIcon: false
         icon: arrowRight
         iconPosition: right
