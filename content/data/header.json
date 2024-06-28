@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -28,9 +30,9 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Nosotros",
+            "altText": "",
+            "url": "/Nosotros",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
