@@ -13,11 +13,14 @@ sections:
           textAlign: justify
     subtitle: CALENTAMIENTO DE AGUA
     text: >+
-      ###### *En Ferroso nos especializamos en ofrecer soluciones completas para
-      tus necesidades de calentamiento de agua. Desde la venta de equipos de
-      alta calidad hasta su instalación y mantenimiento, estamos aquí para
-      asegurar que tu hogar o negocio siempre cuente con agua caliente confiable
-      y eficiente.*
+      ```
+
+      Brindamos servicios integrales las 24 horas del día a clientes
+      empresariales, comerciales, residenciales multifamiliares e industriales.
+
+      ```
+
+
 
     actions:
       - label: HABLA
