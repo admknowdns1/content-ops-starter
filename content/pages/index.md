@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Brindamos servicios de plomería eficiente
+      text: Servicios de plomería eficiente
       color: text-dark
       type: TitleBlock
       styles:
