@@ -36,7 +36,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Plomero (2).png
+      url: /images/Plomero (3).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
