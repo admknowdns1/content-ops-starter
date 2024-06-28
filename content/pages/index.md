@@ -13,14 +13,8 @@ sections:
           textAlign: justify
     subtitle: CALENTAMIENTO DE AGUA
     text: >+
-      ```
-
-      Brindamos servicios integrales las 24 horas del día a clientes
+      ###### Brindamos servicios integrales las 24 horas del día a clientes
       empresariales, comerciales, residenciales multifamiliares e industriales.
-
-      ```
-
-
 
     actions:
       - label: HABLA
