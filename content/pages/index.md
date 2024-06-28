@@ -4,23 +4,20 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Servicios de plomería eficiente
       color: text-dark
       type: TitleBlock
       styles:
         self:
           fontWeight: 400
-          textAlign: justify
-    subtitle: CALENTAMIENTO DE AGUA
+          textAlign: left
+    subtitle: Expertos en calentadores de agua
     text: >+
-      ###### *En Ferroso nos especializamos en ofrecer soluciones completas para
-      tus necesidades de calentamiento de agua. Desde la venta de equipos de
-      alta calidad hasta su instalación y mantenimiento, estamos aquí para
-      asegurar que tu hogar o negocio siempre cuente con agua caliente confiable
-      y eficiente.*
+      ###### Brindamos servicios integrales las 24 horas del día a clientes
+      empresariales, comerciales, residenciales multifamiliares e industriales.
 
     actions:
-      - label: Get started
+      - label: HABLA
         altText: ''
         url: /
         showIcon: false
@@ -39,12 +36,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/lotus-design-n-print-g51F6-WYzyU-unsplash.jpg
+      url: /images/Plomero (3).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: SOLUCIONES EN EQUIPOS DE
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -58,6 +55,9 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        fontStyle: italic
+        fontWeight: 500
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
