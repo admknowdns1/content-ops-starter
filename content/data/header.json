@@ -32,7 +32,7 @@
         {
             "label": "Nosotros",
             "altText": "",
-            "url": "/careers",
+            "url": "/Nosotros",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
